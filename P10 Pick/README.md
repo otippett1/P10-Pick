@@ -1,4 +1,4 @@
-# P10 Pick (berrybuddy)
+# P10 Pick
 
 Mobile-first fantasy Formula 1 web app where players predict:
 
