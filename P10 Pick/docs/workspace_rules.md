@@ -1,6 +1,6 @@
 # Workspace Rules – P10 Pick
 
-## 🧩 Naming Conventions
+## Naming Conventions
 To keep the project organized and consistent, all contributors must follow these conventions.
 
 ### Files and Folders
@@ -19,7 +19,7 @@ To keep the project organized and consistent, all contributors must follow these
 
 ---
 
-## 💬 Commit Message Guidelines
+## Commit Message Guidelines
 All commit messages must be clear, short, and follow the same format.
 
 **Format:**
@@ -52,7 +52,7 @@ Copy code
 
 ---
 
-## 🔄 Pull Request and Review Process
+## Pull Request and Review Process
 Pull Requests (PRs) maintain quality control and team collaboration.
 
 ### Before Opening a PR
@@ -87,7 +87,7 @@ Example:
 
 ---
 
-## 🌿 Branching Strategy
+## Branching Strategy
 A clear branching strategy keeps collaboration smooth and prevents conflicts.
 
 ### Main Branches
