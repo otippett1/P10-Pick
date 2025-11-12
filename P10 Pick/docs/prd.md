@@ -58,6 +58,3 @@ Users can join private leagues with friends, view per-race breakdowns, track sea
 
 ---
 
-### Summary
-P10 Pick is designed to be fast, simple, and community-focused.  
-Its lightweight React + Express + Supabase stack allows rapid development and deployment while maintaining scalability for future features such as public leagues, notifications, and automated data ingestion.
